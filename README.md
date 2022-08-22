@@ -1,5 +1,3 @@
-![Easy Frontend banner](https://linkanh.jpg)
-
 # Chu Văn Hữu - Frontend Developer
 
 - Open and friendly.
@@ -14,7 +12,7 @@
 - `Frontend Developer`: 2021 - 2022
 - `Owner` of website [https://huuchu.netlify.app/](https://huuchu.netlify.app/) where help you search any video in Youtube and watch without advertising.
 
-## Projects for teaching
+## Some Projects
 
 - Tic tac toe game: https://github.com/paulnguyen-mn/js-tic-tac-toe
 - Color matching game: https://github.com/paulnguyen-mn/color-matching-game
