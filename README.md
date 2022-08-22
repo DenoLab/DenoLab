@@ -17,7 +17,7 @@
 - Tic tac toe game: https://github.com/DenoLab/gamexo. Play in https://gametiktoktoe.netlify.app/
 - Search any video in Youtube via Youtube API: https://github.com/DenoLab/utube. Enjoy here https://huuchu.netlify.com/
 - Practice Google firebase: https://github.com/DenoLab/todolist-firebase. Let try with https://tryfirebase.netlify.app
-- Ecommerce Homepage with html/css/javascript: https://github.com/DenoLab/caycanh. See in https://caycanhpage.netlify.com/
+- Ecommerce Homepage responsive with html/css/javascript: https://github.com/DenoLab/caycanh. See in https://caycanhpage.netlify.com/
 
 ## Projects for sharing
 
