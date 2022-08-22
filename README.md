@@ -14,10 +14,10 @@
 
 ## Some Projects
 
-- Tic tac toe game: https://github.com/DenoLab/gamexo
-- Search any video in Youtube via Youtube API: https://github.com/DenoLab/utube
-- Practice Google firebase: https://github.com/DenoLab/todolist-firebase
-- Ecommerce Homepage with html/css/javascript: https://github.com/DenoLab/caycanh
+- Tic tac toe game: https://github.com/DenoLab/gamexo. Play in https://gametiktoktoe.netlify.app/
+- Search any video in Youtube via Youtube API: https://github.com/DenoLab/utube. Enjoy here https://huuchu.netlify.com/
+- Practice Google firebase: https://github.com/DenoLab/todolist-firebase. Let try with https://tryfirebase.netlify.app
+- Ecommerce Homepage with html/css/javascript: https://github.com/DenoLab/caycanh. See in https://caycanhpage.netlify.com/
 
 ## Projects for sharing
 
