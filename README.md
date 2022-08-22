@@ -16,8 +16,16 @@
 
 - Tic tac toe game: https://github.com/DenoLab/gamexo. Play in https://gametiktoktoe.netlify.app/
 - Search any video in Youtube via Youtube API: https://github.com/DenoLab/utube. Enjoy here https://huuchu.netlify.com/
-- Practice Google firebase: https://github.com/DenoLab/todolist-firebase. Let try with https://tryfirebase.netlify.app
-- Ecommerce Homepage responsive with html/css/javascript: https://github.com/DenoLab/caycanh. See in https://caycanhpage.netlify.com/
+- Practice Google firebase: https://github.com/DenoLab/todolist-firebase. 
+- Ecommerce Homepage responsive with html/css/javascript: https://github.com/DenoLab/caycanh.
+![image](https://user-images.githubusercontent.com/80379069/185921084-0836d31c-18d1-469b-8e4b-de21a8d278eb.png)
+
+- Ecommerce Dashboard with Tailwind, StateContext: https://github.com/DenoLab/ecommerce
+![image](https://user-images.githubusercontent.com/80379069/185920466-7726650c-7c59-4679-b5aa-abe8e334833b.png)
+
+- Instagram simple with Firebase, Modal, styled-component: https://github.com/DenoLab/clone-instagram
+![image](https://user-images.githubusercontent.com/80379069/185919815-e78eb9f3-d2b1-45bd-b0d7-1008a8da0ffc.png)
+
 
 ## Projects for sharing
 
